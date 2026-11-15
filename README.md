@@ -89,16 +89,36 @@
 
 ---
 
-### 📊 &nbsp;The Blotter
+### 🧭 &nbsp;Skill Map
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manasjainwork&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=24292f&icon_color=57606a&text_color=57606a"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasjainwork&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a"/>
-
-<img src="https://streak-stats.demolab.com?user=manasjainwork&theme=default&hide_border=true&background=00000000&ring=57606a&fire=24292f&currStreakLabel=24292f"/>
-
-</div>
+```mermaid
+%%{init: {'theme': 'neutral'}}%%
+mindmap
+  root((Manas Jain))
+    AI / ML
+      Machine Learning
+      Deep Learning
+      Neural Networks
+      LLMs & GenAI
+      RAG
+      AI Agents
+    MLOps
+      Docker
+      Kubernetes
+      CI/CD
+    Backend
+      Advanced Backend
+      C++20
+      Distributed Systems
+    Foundations
+      Python
+      Data Engineering & SQL
+      Mathematics & Statistics
+    Frontend
+      React JS
+      HTML
+      CSS
+```
 
 ---
 
