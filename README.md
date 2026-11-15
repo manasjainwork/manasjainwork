@@ -1,180 +1,117 @@
-<!-- Replace YOUR_USERNAME and YOUR NAME everywhere -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Hey%2C%20I'm%20YOUR%20NAME%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20ML%20%C2%B7%20MLOps%20%C2%B7%20Backend%20%C2%B7%20Full%20Stack&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f6f8fa&height=140&section=header&text=Manas%20Jain&fontSize=52&fontColor=24292f&fontAlign=50&fontAlignY=46&desc=SDE%20%C2%B7%20AI%2FML%20%C2%B7%20Public%20Speaker%20%C2%B7%20Writer&descSize=16&descColor=57606a&descAlignY=72" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+intelligent+AI+systems+%F0%9F%A7%A0;Shipping+ML+models+to+production+%F0%9F%9A%80;Crafting+RAG+%26+Multi-Agent+apps+%F0%9F%A4%96;Writing+blazing-fast+C%2B%2B20+%E2%9A%A1;Turning+math+into+magic+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&duration=3000&pause=900&color=57606A&center=true&vCenter=true&width=720&lines=Architecting+high-performance+systems;Building+intelligent+AI+pipelines;Low-latency+C%2B%2B20+%C2%B7+RAG+%C2%B7+Agents+%C2%B7+MLOps;Recognised+by+the+Govt.+of+Madhya+Pradesh" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8b5cf6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=ec4899&labelColor=1f1f2e)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=starship&color=f59e0b&labelColor=1f1f2e)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292f?style=flat-square&logo=googlechrome&logoColor=white)](https://manasjainwork.github.io/Manas-j-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas110)
+[![Email](https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.manasjain@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=manasjainwork&label=Views&color=24292f&style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 📰 &nbsp;The Front Page
 
-```python
-class Developer:
-    def __init__(self):
-        self.name    = "YOUR NAME"
-        self.role    = "AI/ML Engineer & Full Stack Developer"
-        self.focus   = ["LLMs", "RAG", "AI Agents", "MLOps"]
-        self.loves   = ["Math", "C++20", "Clean Backend", "Shipping Fast"]
-        self.mission = "Build AI that actually works in production 🚀"
+> **Architecting high-performance systems & intelligent AI pipelines — from Indore.**
+> Low-latency C++, LLM engineering, RAG architectures, and distributed systems that keep running even when servers crash.
 
-    def say_hi(self):
-        print("Let's build something insane together! 🔥")
-```
+- 🏛️ Honoured by the Mayor & Cabinet Minister for Indore's water-management solution (Hack'Ndore)
+- ⚡ Technical Business Analyst (AI & Automation) at **Brain Inventory**
+- 📄 Published research on **Zenodo** with a public DOI
+- 🎤 Hosted the Mega **CEO Summit Podcast** · 8+ communication awards
 
 ---
 
-## 🛠️ Skills & Tech Stack
+### 🚀 &nbsp;Flagship Systems
 
-### 🤖 AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-8b5cf6?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-ec4899?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neural_Networks-f43f5e?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
-
-### 🧠 LLMs, GenAI, RAG & Agents
-<p>
-  <img src="https://img.shields.io/badge/LLMs_%26_GenAI_Apps-0ea5e9?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-14b8a6?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Agents-a855f7?style=for-the-badge&logo=probot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-6366f1?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vector_DBs-10b981?style=for-the-badge&logo=databricks&logoColor=white"/>
-</p>
-
-### ⚙️ MLOps
-<p>
-  <img src="https://img.shields.io/badge/MLOps-f97316?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white"/>
-</p>
-
-### 🧱 Advanced Backend
-<p>
-  <img src="https://img.shields.io/badge/Advanced_Backend-0f172a?style=for-the-badge&logo=serverfault&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-ef4444?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-</p>
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### 📐 Mathematics & Data Engineering
-<p>
-  <img src="https://img.shields.io/badge/Mathematics_%26_Statistics-7c3aed?style=for-the-badge&logo=wolfram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data_Engineering-0ea5e9?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+| | Project | What it does |
+|---|---|---|
+| ⚙️ | **[Meridian](https://github.com/manasjainwork/meridian)** | Stock-exchange-style matching engine in **C++20**, replicated with **Raft** consensus, tested against thousands of simulated node and network failures. [📄 Zenodo DOI](https://doi.org/10.5281/zenodo.23856006) |
+| 📬 | **Nectar** | Lead-gen & outreach platform: React 19 + Vite, Apps Script backend, AI enrichment via Groq (Llama 3.3 70B), Brevo dispatch. Zero server cost. |
+| 🔗 | **ShortCraze** | Link-shortener SaaS with custom keywords, 30+ themes, QR codes. 70+ users, 400+ links in a month. |
+| 🐶 | **Aashima AI** | AI "college senior" companion; chats are free, donations feed stray dogs. |
+| 💧 | **Hack'Ndore** | IoT + AI water-distribution and leak-detection system for Indore, recognised by Govt. of MP. |
 
 ---
 
-## 🧭 Skill Map
+### 🛠️ &nbsp;Skills & Tech Stack
 
-```mermaid
-mindmap
-  root((🚀 Me))
-    🤖 AI/ML
-      Deep Learning
-      Neural Networks
-      LLMs & GenAI
-      RAG
-      AI Agents
-    ⚙️ MLOps
-      Docker
-      CI/CD
-      Model Serving
-    🧱 Backend
-      FastAPI
-      C++20
-      Microservices
-    📐 Foundations
-      Math & Stats
-      Python
-      SQL
-      Data Engineering
-    🌐 Frontend
-      React JS
-      HTML
-      CSS
-```
+**AI / Machine Learning**
+<br/>
+![](https://img.shields.io/badge/Machine_Learning-24292f?style=flat-square&logo=scikitlearn&logoColor=white)
+![](https://img.shields.io/badge/Deep_Learning_&_Neural_Networks-24292f?style=flat-square&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-24292f?style=flat-square&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-24292f?style=flat-square&logo=tensorflow&logoColor=white)
+
+**LLMs, GenAI, RAG & Agents**
+<br/>
+![](https://img.shields.io/badge/LLMs_&_GenAI_Apps-24292f?style=flat-square&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/RAG-24292f?style=flat-square&logo=databricks&logoColor=white)
+![](https://img.shields.io/badge/AI_Agents_&_Multi--Agent_Systems-24292f?style=flat-square&logo=probot&logoColor=white)
+![](https://img.shields.io/badge/LangChain-24292f?style=flat-square&logo=langchain&logoColor=white)
+![](https://img.shields.io/badge/Hugging_Face-24292f?style=flat-square&logo=huggingface&logoColor=white)
+
+**MLOps**
+<br/>
+![](https://img.shields.io/badge/MLOps-24292f?style=flat-square&logo=mlflow&logoColor=white)
+![](https://img.shields.io/badge/Docker-24292f?style=flat-square&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-24292f?style=flat-square&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/CI/CD-24292f?style=flat-square&logo=githubactions&logoColor=white)
+
+**Advanced Backend & Systems**
+<br/>
+![](https://img.shields.io/badge/Advanced_Backend-24292f?style=flat-square&logo=serverfault&logoColor=white)
+![](https://img.shields.io/badge/C++20-24292f?style=flat-square&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Distributed_Systems-24292f?style=flat-square&logo=apachekafka&logoColor=white)
+![](https://img.shields.io/badge/FastAPI-24292f?style=flat-square&logo=fastapi&logoColor=white)
+![](https://img.shields.io/badge/Redis-24292f?style=flat-square&logo=redis&logoColor=white)
+
+**Languages, Data & Math**
+<br/>
+![](https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Data_Engineering_&_SQL-24292f?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Mathematics_&_Statistics-24292f?style=flat-square&logo=wolfram&logoColor=white)
+![](https://img.shields.io/badge/NumPy-24292f?style=flat-square&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-24292f?style=flat-square&logo=pandas&logoColor=white)
+
+**Frontend**
+<br/>
+![](https://img.shields.io/badge/React_JS-24292f?style=flat-square&logo=react&logoColor=white)
+![](https://img.shields.io/badge/HTML5-24292f?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-24292f?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📊 &nbsp;The Blotter
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=c9d1d9"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manasjainwork&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=24292f&icon_color=57606a&text_color=57606a"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasjainwork&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a"/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a78bfa&line=ec4899&point=ffffff&area=true&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=manasjainwork&theme=default&hide_border=true&background=00000000&ring=57606a&fire=24292f&currStreakLabel=24292f"/>
 
 </div>
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
-</div>
-
----
-
-## 📫 Let's Connect
+### 📫 &nbsp;Direct Correspondence
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+**Open to Software & AI Engineering roles, collaborations and speaking invites.**
 
-<br/>
+[Portfolio](https://manasjainwork.github.io/Manas-j-Portfolio/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/manas110) &nbsp;·&nbsp; [Email](mailto:contact.manasjain@gmail.com)
 
-> *"Talk is cheap. Show me the model."* 😎
+<sub>Indore, India · IST · remote-friendly</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f6f8fa&height=60&section=footer" width="100%"/>
 
 </div>
