@@ -1,160 +1,138 @@
-<!-- ================= HEADER ================= -->
+<!-- Replace YOUR_USERNAME and YOUR NAME everywhere -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Manas%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Public%20Speaker&descSize=18&descAlignY=58" alt="Manas Jain banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=240&section=header&text=Hey%2C%20I'm%20YOUR%20NAME%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20ML%20%C2%B7%20MLOps%20%C2%B7%20Backend%20%C2%B7%20Full%20Stack&descSize=18&descAlignY=58" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=I+turn+business+problems+into+working+tech;Developer+%7C+AI+Enthusiast+%7C+Automation+Builder;Recognised+by+the+Mayor+of+Indore+for+a+water+solution;Building+a+C%2B%2B+order+matching+engine+from+scratch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+intelligent+AI+systems+%F0%9F%A7%A0;Shipping+ML+models+to+production+%F0%9F%9A%80;Crafting+RAG+%26+Multi-Agent+apps+%F0%9F%A4%96;Writing+blazing-fast+C%2B%2B20+%E2%9A%A1;Turning+math+into+magic+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-manas110-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas110/)
-[![GitHub](https://img.shields.io/badge/GitHub-manasjainwork-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manasjainwork)
-![Profile Views](https://komarev.com/ghpvc/?username=manasjainwork&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=8b5cf6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=ec4899&labelColor=1f1f2e)
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=starship&color=f59e0b&labelColor=1f1f2e)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm **Manas Jain**, a **developer** and **AI enthusiast** who loves **understanding a business problem first and building the technology second**. I don't start with a tool and look for a problem. I start with the problem, talk to the people who live with it, and then pick the right stack, whether that's a full-stack web app, an automation workflow, or a data pipeline.
+```python
+class Developer:
+    def __init__(self):
+        self.name    = "YOUR NAME"
+        self.role    = "AI/ML Engineer & Full Stack Developer"
+        self.focus   = ["LLMs", "RAG", "AI Agents", "MLOps"]
+        self.loves   = ["Math", "C++20", "Clean Backend", "Shipping Fast"]
+        self.mission = "Build AI that actually works in production 🚀"
 
-I've worked on a wide range of projects, from a blockchain-based governance system for student clubs to a farm-to-fork e-commerce platform, and I'm now going deep into **C++, data structures and algorithms, and low-latency systems**.
-
-Outside the code, I'm a **public speaker and an articulate communicator**. I enjoy explaining complex ideas simply, pitching solutions, and bridging the gap between technical teams and the people they build for.
-
-> 💡 *"Good tech starts with a well-understood problem."*
-
----
-
-## 🏆 Recognition
-
-<table>
-  <tr>
-    <td width="80" align="center">🏛️</td>
-    <td>
-      <b>Recognised for drafting a solution to improve water management in Indore</b><br/>
-      Appreciated by <b>Shri Pushyamitra Bhargav</b>, <i>Mayor of Indore</i>, and <b>Shri Kailash Vijayvargiya</b>, <i>Cabinet Minister, Government of Madhya Pradesh</i>.
-    </td>
-  </tr>
-</table>
+    def say_hi(self):
+        print("Let's build something insane together! 🔥")
+```
 
 ---
 
-## 🧰 What I Do
+## 🛠️ Skills & Tech Stack
 
-| | |
-|---|---|
-| 🧩 **Business Problem Solving** | Understand the real problem, define it clearly, and turn it into a practical technical solution |
-| 💻 **Full-Stack Development** | React, Next.js, Node.js, Express and MongoDB applications from idea to deployment |
-| 🤖 **AI and Automation** | Workflow automation with n8n and Google Apps Script, and AI-assisted development with Claude |
-| 📊 **Data Analytics** | Turning raw data into insights that help people decide |
-| ⚙️ **Systems and Problem Solving** | C++, DSA, competitive programming, and performance-focused engineering |
-| 🎤 **Public Speaking** | Presenting ideas, pitching solutions, and communicating clearly with technical and non-technical audiences |
-
----
-
-## 🛠️ Tech Stack and Skills
-
-### Programming and Problem Solving
-
+### 🤖 AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark" alt="Languages" />
+  <img src="https://img.shields.io/badge/Machine_Learning-8b5cf6?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-ec4899?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neural_Networks-f43f5e?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-![C++](https://img.shields.io/badge/C++-Problem%20Solving-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-orange?style=for-the-badge)
-
-### Web Development
-
+### 🧠 LLMs, GenAI, RAG & Agents
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,html,css,vite&theme=dark" alt="Web stack" />
+  <img src="https://img.shields.io/badge/LLMs_%26_GenAI_Apps-0ea5e9?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-14b8a6?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Agents-a855f7?style=for-the-badge&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Multi--Agent_Systems-6366f1?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vector_DBs-10b981?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-### AI, Automation and Data
-
-![Claude](https://img.shields.io/badge/Claude-AI%20Assisted%20Development-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-Automation-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Insights%20%26%20Reporting-2C5364?style=for-the-badge)
-
-### Tools and Platforms
-
+### ⚙️ MLOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,postman&theme=dark" alt="Tools" />
+  <img src="https://img.shields.io/badge/MLOps-f97316?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white"/>
 </p>
 
-### Soft Skills
+### 🧱 Advanced Backend
+<p>
+  <img src="https://img.shields.io/badge/Advanced_Backend-0f172a?style=for-the-badge&logo=serverfault&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-ef4444?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
 
-![Public Speaking](https://img.shields.io/badge/Public%20Speaking-Confident%20Presenter-8A2BE2?style=for-the-badge)
-![Communication](https://img.shields.io/badge/Communication-Articulate%20%26%20Clear-1abc9c?style=for-the-badge)
-![Problem Framing](https://img.shields.io/badge/Problem%20Framing-Business%20to%20Tech-e67e22?style=for-the-badge)
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
----
+### 📐 Mathematics & Data Engineering
+<p>
+  <img src="https://img.shields.io/badge/Mathematics_%26_Statistics-7c3aed?style=for-the-badge&logo=wolfram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Engineering-0ea5e9?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</p>
 
-## 🚀 Featured Projects
-
-### ⚡ Meridian: C++ Order Matching Engine *(in progress)*
-A from-scratch **limit order book and matching engine in C++**, built with performance in mind: benchmarks, tests, and documented bugs live in the repo. This is my long-term deep dive into low-latency systems, modern C++, and how exchanges actually work.
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat-square&logo=github)](https://github.com/manasjainwork/meridian)
-
----
-
-### 🏛️ Club DAO: Student Clubs Run on Code, Not Chaos
-A **blockchain-based governance platform** for student clubs, built to fix favouritism, opaque decisions, and unfair credit distribution. It brings transparent voting, smart-contract approvals, a voting-based contribution credit system, and on-chain sponsorship records. Built with my team (DevStrikers) for a hackathon.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Ethereum](https://img.shields.io/badge/Web3%20%2F%20Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://club-dao-delta.vercel.app/)
-[![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/manasjaincode/Manas-ClubDAO)
-
----
-
-### 🥘 Freshcon India: Farm-to-Fork E-Commerce
-A modern **MERN-stack e-commerce platform** that brings clean-label, preservative-free, pre-cooked ingredients to urban homes. It includes user authentication and dashboards, real-time product listings, a cart and checkout flow, an admin dashboard for inventory and orders, and an API-driven architecture.
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-[![Live](https://img.shields.io/badge/Live-Website-success?style=flat-square&logo=googlechrome&logoColor=white)](https://freshconindia.com/)
-[![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/manasjaincode/FreshconIndia.com)
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
-### 🔗 ShortCraze
-A full-stack **Next.js** web application with server-side logic, models, and context-based state, deployed on Vercel.
+## 🧭 Skill Map
 
-[![Live](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://shortcraze-3377.vercel.app)
-[![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/manasjaincode/shortcraze-3377)
-
----
-
-### 🤝 Refer-Partner
-A **React + Vite** web app focused on referral and partner workflows.
-
-[![Code](https://img.shields.io/badge/Source-Code-181717?style=flat-square&logo=github)](https://github.com/manasjaincode/Refer-Partner)
-
-> 📂 More of my earlier work is on my previous account: [**manasjaincode**](https://github.com/manasjaincode)
-
----
-
-## 🎯 Currently
-
-- ⚡ Building **Meridian**, a C++ order matching engine, with a focus on performance and clean design
-- 📚 Going deep into **modern C++**, **data structures and algorithms**, and **competitive programming** (LeetCode and Codeforces)
-- 🤖 Exploring how **AI and automation** can remove repetitive work from real business processes
-- 🎤 Continuing to speak, present, and share ideas whenever I get the chance
+```mermaid
+mindmap
+  root((🚀 Me))
+    🤖 AI/ML
+      Deep Learning
+      Neural Networks
+      LLMs & GenAI
+      RAG
+      AI Agents
+    ⚙️ MLOps
+      Docker
+      CI/CD
+      Model Serving
+    🧱 Backend
+      FastAPI
+      C++20
+      Microservices
+    📐 Foundations
+      Math & Stats
+      Python
+      SQL
+      Data Engineering
+    🌐 Frontend
+      React JS
+      HTML
+      CSS
+```
 
 ---
 
@@ -162,25 +140,41 @@ A **React + Vite** web app focused on referral and partner workflows.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=manasjainwork&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasjainwork&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=c9d1d9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a78bfa&line=ec4899&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always open to conversations about **building useful technology, solving real business problems, collaborating on projects, speaking opportunities, and internships**.
+## 🏆 Trophies
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas110/)
-
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
 </div>
 
+---
+
+## 📫 Let's Connect
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+
+<br/>
+
+> *"Talk is cheap. Show me the model."* 😎
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=120&section=footer" width="100%"/>
 
 </div>
